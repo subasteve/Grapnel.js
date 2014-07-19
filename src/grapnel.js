@@ -235,4 +235,4 @@
         root.Grapnel = Grapnel;
     }
 
-}).call({}, window);
+}).call({}, window)();
